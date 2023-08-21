@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+     text-align: center;
+    color:red;
+    
+}
+        
+h3{
+    color:black;
+    background-color: aliceblue;
+    margin-left: 500px;
+    margin-right: 700px;
+}
+#canvas{
+background-color: aliceblue;
+}
+
+.head{
+    font-family: 'Fascinate', cursive;
+    text-align: center;
+    color: brown;
+    font-size: 60px;
+}
+#strokew{
+    margin-right: 800px;
+}
